@@ -1,30 +1,45 @@
-# 🗨️ MERN Real-Time Chat App
+# MERN Stack Project: Real-Time Chat App 💬
 
-![Demo](https://i.ibb.co/gFSMzKN/1.png)
+<img src="https://i.ibb.co/gFSMzKN/1.png" width="600" />
 
-> 🔗 [Watch Full Tutorial on YouTube](https://youtu.be/HwCqsOis894)
-
----
-
-## 🚀 Features
-
-- 🌟 **Tech Stack**: MongoDB, Express.js, React.js, Node.js, Socket.io  
-- 🎨 Styled with **TailwindCSS** and **Daisy UI**
-- 🔐 **JWT Authentication & Authorization**
-- 💬 **Real-Time Messaging** using **Socket.io**
-- 🟢 **Online User Status** with React Context & Sockets
-- 💡 **Global State Management** with Zustand
-- ⚠️ Robust **Error Handling** (Client & Server)
-- 📦 **Deployment Ready**
-- ⏳ And much more!
+🚀 A full-stack real-time chat application built using the **MERN Stack** (MongoDB, Express, React, Node.js) with **Socket.io**, **JWT authentication**, **Zustand**, and **TailwindCSS + DaisyUI**.
 
 ---
 
-## 🛠️ Getting Started
+## 📽️ Video Tutorial
 
-### 1. 📁 Clone the Repository
+📺 [Watch on YouTube](https://youtu.be/HwCqsOis894)
+
+---
+
+## ⚙️ Tech Stack
+
+- 💻 **Frontend:** React + TailwindCSS + DaisyUI
+- 🌐 **Backend:** Express.js + Node.js
+- 🗃️ **Database:** MongoDB
+- 🧠 **State Management:** Zustand
+- 🔐 **Authentication:** JWT (JSON Web Token)
+- 📡 **Real-Time:** Socket.io
+- 📦 **Package Manager:** npm
+
+---
+
+## ✨ Features
+
+- 🔐 User authentication and authorization using JWT
+- 📱 Real-time chat using Socket.io
+- 🟢 Online user status tracking
+- ⚛️ Global state using Zustand
+- 💅 Beautiful UI with TailwindCSS and Daisy UI
+- ❗ Robust error handling (client + server)
+- 🆓 Free deployment ready!
+
+---
+
+## 🧪 Setup Instructions
+
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-chat-app.git
+git clone https://github.com/Rachana-Jeganathan/mern-chat-app.git
 cd mern-chat-app
-
